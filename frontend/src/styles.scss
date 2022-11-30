@@ -1,0 +1,183 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+// debug
+// * {
+//   outline: solid 1px blue;
+// }
+
+/* ----- VARIABLES ----- */
+$primary: #003d83;
+
+$background-gray: #1b1f23;
+$background-gray-light: #252a30;
+$blue: #363d46;
+
+$background-card-gray: #424242;
+
+// Imports for Angular Material Theming
+@import "~@angular/material/theming";
+@include mat-core();
+
+// default dark
+// pozadie karty #424242
+// pozadie seda #303030
+
+$icp-green: (
+  50: #04d44a,
+  100: #038830,
+  200: #013b14,
+  contrast: (50: white,
+    100: white,
+    200: white,
+  ),
+);
+
+// custom theme
+$custom-primary: mat-palette($icp-green, 100, 50, 200);
+$custom-accent: mat-palette($mat-amber, A200, A100, A400);
+$custom-warn: mat-palette($mat-deep-orange);
+
+$custom-theme: mat-dark-theme($custom-primary, $custom-accent, $custom-warn);
+
+@include angular-material-theme($custom-theme);
+
+/* ----- GLOBAL SCSS ----- */
+
+html {
+  font-family: "Roboto", "Segoe UI", Helvetica, Tahoma, Geneva, Verdana,
+    sans-serif;
+  height: 100%;
+
+  body {
+    height: 100%;
+    margin: 0;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.content-container {
+  margin-top: 16px;
+  width: 95%;
+  max-width: 1150px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.min-width480 {
+  min-width: 480px;
+}
+
+.min-width370 {
+  min-width: 370px;
+}
+
+.min-width320 {
+  min-width: 320px;
+}
+
+.min-width200 {
+  min-width: 200px;
+}
+
+.min-width112 {
+  min-width: 112px;
+}
+
+// card actions
+.min-width180 {
+  min-width: 180px;
+}
+
+// card actions
+.min-width92 {
+  min-width: 92px;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.margin-bottom-16 {
+  margin-bottom: 16px;
+}
+
+.margin-right-8 {
+  margin-right: 8px;
+}
+
+.padding-8 {
+  padding: 8px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+// ====================== MATERIAL MORDOR ======================
+.mat-drawer-container {
+  background-color: $background-gray;
+}
+
+.mat-drawer,
+.mat-card,
+.mat-table,
+.mat-paginator,
+.mat-dialog-container,
+.mat-stepper-horizontal,
+.mat-stepper-vertical {
+  background-color: $background-gray-light;
+}
+
+.mat-flat-button,
+.mat-expansion-panel,
+.mat-select-panel,
+.mat-step-header .mat-step-icon:not(.mat-step-icon-selected),
+.mat-expansion-panel:not(.mat-expanded):not([aria-disabled="true"]) .mat-expansion-panel-header:hover {
+  background-color: $blue;
+}
+
+.snackbar-warning {
+  color: #de3b40;
+}
+
+markdown {
+  code {
+    padding: 2px 5px 2px 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+
+    font-size: 87.5%;
+    word-wrap: break-word;
+  }
+
+  a {
+    color: rgba(0, 183, 255, 0.8);
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}

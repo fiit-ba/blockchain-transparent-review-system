@@ -1,0 +1,59 @@
+<div class="row justify-center">
+  <div class="content-container">
+    <h1>Review List</h1>
+    <div class="row">
+      <mat-form-field class="filter-search" appearance="fill">
+        <mat-label>Search</mat-label>
+        <input
+          matInput
+          type="text"
+          [(ngModel)]="search"
+          (ngModelChange)="searchChange($event)"
+        />
+        <button
+          *ngIf="search"
+          matSuffix
+          mat-icon-button
+          aria-label="Clear"
+          (click)="search = ''"
+        >
+          <mat-icon>close</mat-icon>
+        </button>
+      </mat-form-field>
+    </div>
+
+    <div *ngIf="reviews.length > 0; else elseBlock">
+      <mat-card class="review-card" *ngFor="let review of reviews">
+        <mat-card-subtitle class="subtitle">
+          <span class="name">{{ review.authorName }}</span>
+          <span class="date">{{ review.created * 1000 | date: "medium" }}</span>
+        </mat-card-subtitle>
+        <mat-card-title class="margin-bottom-16">{{
+          review.title
+        }}</mat-card-title>
+        <mat-card-content>
+          <p>
+            <button
+              class="subject-btn"
+              *ngFor="let item of getSubjectDesc(review.subjectId)"
+              mat-stroked-button
+              color="accent"
+              disabled
+            >
+              {{ item }}
+            </button>
+            <button
+              class="detail-btn"
+              mat-button
+              (click)="reviewDetail(review)"
+            >
+              DETAIL
+            </button>
+          </p>
+        </mat-card-content>
+      </mat-card>
+    </div>
+    <ng-template #elseBlock>No reviews to display.</ng-template>
+    <br />
+  </div>
+</div>

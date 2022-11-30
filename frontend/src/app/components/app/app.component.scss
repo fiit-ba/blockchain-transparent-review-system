@@ -1,0 +1,33 @@
+@import "src/styles.scss";
+
+mat-drawer {
+  width: 250px;
+}
+
+#toolbar {
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  height: 64px;
+  background-color: $background-gray;
+  border-bottom: 1px solid #2b2f33;
+
+  .mat-icon {
+    font-size: xx-large;
+  }
+}
+
+#main-content {
+  margin-top: 64px;
+
+  .content-without-footer {
+    min-height: calc(100vh - 164px);
+  }
+
+  .footer {
+    margin-top: 24px;
+    padding-top: 25px;
+    background-color: $background-gray-light;
+    height: 50px;
+  }
+}

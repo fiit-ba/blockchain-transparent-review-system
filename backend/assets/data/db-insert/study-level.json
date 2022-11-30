@@ -1,0 +1,37 @@
+[
+  {
+    "name":"Bc. štúdium (štvorročné)",
+    "full_name":"Bc. štúdium (štvorročné)",
+    "tags":[
+      "4bc"
+    ]
+  },
+  {
+    "name":"Bc. štúdium - 1. ročník",
+    "full_name":"Bc. štúdium - 1. ročník",
+    "tags":[
+      "bc-1-rocnik"
+    ]
+  },
+  {
+    "name":"Bc. štúdium - 2. ročník",
+    "full_name":"Bc. štúdium - 2. ročník",
+    "tags":[
+      "bc-2-rocnik"
+    ]
+  },
+  {
+    "name":"Bc. štúdium - 3. ročník",
+    "full_name":"Bc. štúdium - 3. ročník",
+    "tags":[
+      "bc-3-rocnik"
+    ]
+  },
+  {
+    "name":"Ing. štúdium - 1. a 2. ročník",
+    "full_name":"Ing. štúdium - 1. a 2. ročník",
+    "tags":[
+      "ing-1-2-rocnik"
+    ]
+  }
+]

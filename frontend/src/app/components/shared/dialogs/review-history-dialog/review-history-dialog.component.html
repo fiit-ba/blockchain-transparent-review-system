@@ -1,0 +1,30 @@
+<h2 mat-dialog-title>Review History</h2>
+<mat-dialog-content class="mat-typography">
+    <mat-card class="review-detail-card-hist" *ngFor="let review of reviewHist">
+      <mat-card-subtitle class="subtitle">
+        <span class="name">{{ review.data.authorName }}</span>
+        <span class="date">{{ review.data.created * 1000 | date: "long" }}</span>
+      </mat-card-subtitle>
+      <mat-card-title>{{ review.data.title }}</mat-card-title>
+      <mat-card-content>
+        <p>
+          <button
+            class="subject-btn"
+            *ngFor="let item of getSubjectDesc(review.data.subjectID)"
+            mat-stroked-button
+            color="accent"
+            disabled
+          >
+            {{ item }}
+          </button>
+        </p>
+        <markdown
+          id="review-markdown-output"
+          [data]="review.data.text"
+          style="width: 100%"
+        ></markdown>
+      </mat-card-content>
+    </mat-card>
+
+    
+</mat-dialog-content>

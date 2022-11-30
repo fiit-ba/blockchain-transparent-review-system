@@ -1,0 +1,56 @@
+<mat-drawer-container style="height: 100%">
+  <!-- sidebar menu -->
+  <mat-drawer #drawer mode="over">
+    <mat-action-list>
+      <button
+        (click)="drawer.toggle()"
+        color="primary"
+        mat-list-item
+        routerLink="/"
+      >
+        Home
+      </button>
+      <button
+        (click)="drawer.toggle()"
+        color="primary"
+        mat-list-item
+        routerLink="/review/add"
+      >
+        Add
+      </button>
+      <button
+        (click)="drawer.toggle()"
+        color="primary"
+        mat-list-item
+        routerLink="/review/list"
+      >
+        List
+      </button>
+    </mat-action-list>
+  </mat-drawer>
+
+  <!-- toolbar -->
+  <mat-toolbar id="toolbar">
+    <button (click)="drawer.toggle()" mat-icon-button>
+      <mat-icon [inline]="true">menu</mat-icon>
+    </button>
+
+    <span class="spacer"></span>
+
+    <button mat-icon-button routerLink="/review/add">
+      <mat-icon [inline]="true">add</mat-icon>
+    </button>
+  </mat-toolbar>
+
+  <!-- content -->
+  <div id="main-content" role="main">
+    <div class="content-without-footer">
+      <router-outlet></router-outlet>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer justify-center row">
+      <div class="row justify-center">© Copyright 2022 | RewChain</div>
+    </div>
+  </div>
+</mat-drawer-container>

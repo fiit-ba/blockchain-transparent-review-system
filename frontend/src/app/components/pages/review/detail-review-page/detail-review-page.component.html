@@ -1,0 +1,208 @@
+<div class="row justify-center">
+  <div class="content-container">
+    <h1>Review Detail</h1>
+    <mat-card class="review-detail-card" *ngIf="review">
+      <mat-card-subtitle class="subtitle">
+        <span class="name">{{ review.authorName }}</span>
+        <span class="date">{{ review.created * 1000 | date }}</span>
+      </mat-card-subtitle>
+      <mat-card-title>{{ review.title }}</mat-card-title>
+      <mat-card-content>
+        <p>
+          <button
+            class="subject-btn"
+            *ngFor="let item of getSubjectDesc(review.subjectID)"
+            mat-stroked-button
+            color="accent"
+            disabled
+          >
+            {{ item }}
+          </button>
+        </p>
+        <markdown
+          id="review-markdown-output"
+          [data]="review.text"
+          style="width: 100%"
+        ></markdown>
+      </mat-card-content>
+      <mat-divider inset></mat-divider>
+
+      <mat-card-actions align="end">
+        <button
+          mat-button
+          [disabled]="showHistoryDisabled"
+          (click)="openHistoryDialog()"
+        >
+          Show History
+        </button>
+        <button mat-button (click)="update = !update">UPDATE</button>
+      </mat-card-actions>
+    </mat-card>
+
+    <div class="review-detail-update" *ngIf="update">
+      <div fxLayout="row" fxLayout.xs="column" fxLayoutGap="16px">
+        <!-- Review form -->
+        <div fxFlex="60">
+          <mat-card class="form-card">
+            <mat-card-title>Update Review</mat-card-title>
+            <mat-card-content>
+              <form>
+                <!-- ----- Subject select row ----- -->
+                <h3>Subject</h3>
+                <div class="row">
+                  <mat-form-field appearance="outline" class="min-width320">
+                    <mat-label>Choose a subject</mat-label>
+                    <mat-select
+                      [(value)]="subjectID"
+                      [(ngModel)]="subjectID"
+                      [formControl]="subjectControl"
+                    >
+                      <mat-optgroup
+                        *ngFor="let group of subjectsGroups"
+                        [label]="group.name"
+                      >
+                        <mat-option
+                          *ngFor="let subject of group.subjects"
+                          [value]="subject.id"
+                        >
+                          {{
+                            subject.name + "  -  " + subject.subject_type.name
+                          }}
+                        </mat-option>
+                      </mat-optgroup>
+                    </mat-select>
+                  </mat-form-field>
+                </div>
+
+                <!-- Review title row -->
+                <h3>Title</h3>
+                <div class="row">
+                  <mat-form-field
+                    class="title"
+                    appearance="fill"
+                    style="width: 100%"
+                  >
+                    <input
+                      name="title"
+                      matInput
+                      #title
+                      maxlength="256"
+                      [(ngModel)]="reviewTitle"
+                    />
+                    <mat-hint align="start"></mat-hint>
+                    <mat-hint align="end"
+                      >{{ title.value.length }} / 256</mat-hint
+                    >
+                  </mat-form-field>
+                </div>
+
+                <!-- Review text row -->
+                <h3>Text</h3>
+                <div class="row margin-bottom-16">
+                  <mat-form-field appearance="fill" style="width: 100%">
+                    <textarea
+                      (keydown)="handleKeydown($event)"
+                      matInput
+                      #text
+                      maxlength="2048"
+                      [(ngModel)]="reviewText"
+                      name="text"
+                    ></textarea>
+                    <mat-hint align="start"></mat-hint>
+                    <mat-hint align="end"
+                      >{{ text.value.length }} / 2048</mat-hint
+                    >
+                  </mat-form-field>
+                </div>
+                <div
+                  class="row mar margin-bottom-16"
+                  *ngIf="reviewText.length > 0"
+                >
+                  <mat-card class="min-width320 markdown-card">
+                    <markdown
+                      id="review-markdown-output"
+                      [data]="reviewText"
+                      style="width: 100%"
+                    ></markdown>
+                  </mat-card>
+                </div>
+
+                <div class="row mar">
+                  <mat-form-field
+                    *ngIf="!isAnonym"
+                    appearance="outline"
+                    class="min-width320"
+                  >
+                    <mat-label>Select</mat-label>
+                    <mat-select
+                      [(ngModel)]="authorID"
+                      [(value)]="authorID"
+                      [formControl]="userControl"
+                    >
+                      <mat-option *ngFor="let user of users" [value]="user.id">
+                        {{ user.full_name }}
+                      </mat-option>
+                    </mat-select>
+                  </mat-form-field>
+                </div>
+
+                <!-- Additional info row -->
+                <div class="row">
+                  <section class="checkbox-section">
+                    <mat-checkbox
+                      name="anonymous"
+                      class="checkbox-margin"
+                      [(ngModel)]="isAnonym"
+                      >Ask anonymously</mat-checkbox
+                    >
+                    <mat-checkbox
+                      name="public"
+                      class="checkbox-margin"
+                      [(ngModel)]="isPublic"
+                      >Make public</mat-checkbox
+                    >
+                  </section>
+                </div>
+              </form>
+            </mat-card-content>
+
+            <mat-card-actions>
+              <button
+                (click)="updateReview()"
+                class="min-width180"
+                color="primary"
+                mat-flat-button
+              >
+                Update review
+              </button>
+            </mat-card-actions>
+          </mat-card>
+        </div>
+        <!-- Notes how to fill the form -->
+        <div fxFlex="40">
+          <mat-card class="color-faded">
+            <mat-card-title>How to fill out a review?</mat-card-title>
+            <h3 class="h3">Subject</h3>
+            <p class="how-to-text">
+              Choose a subject that u want to review from a selection
+            </p>
+            <h3 class="h3">Title</h3>
+            <p class="how-to-text">Add a descriptive title to your review</p>
+            <h3 class="h3">Text</h3>
+            <p class="how-to-text">
+              Write a review with a support of Markdown and see the compiled
+              result while u writing
+            </p>
+            <h3 class="h3">Additional data</h3>
+            <p class="how-to-text">
+              Fill out the additional data of the review like the options of
+              asking anonymously or making your review public. If u like to
+              submit a review like specific user, uncheck "Ask anonymously" and
+              select the user
+            </p>
+          </mat-card>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

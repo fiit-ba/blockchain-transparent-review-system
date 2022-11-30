@@ -1,0 +1,24 @@
+.review-detail-card-hist {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-bottom: 16px;
+}
+
+.subject-btn {
+    margin-right: 5px;
+}
+
+.review-detail-card-hist:first-child {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.subtitle .date {
+    float: right
+}
+
+.subtitle .name {
+    float: left
+}
+
+.mat-card-title:not(:first-child) {
+    margin-top: 25px;
+}

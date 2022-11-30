@@ -1,0 +1,44 @@
+[
+  {
+    "first_name": "Anonymous",
+    "last_name": "Anonymous",
+    "full_name": "Anonymous",
+    "login": "anonymous",
+    "password": "294de3557d9d00b3d2d8a1e6aab028cf"
+  },
+  {
+    "first_name": "Filip",
+    "last_name": "Hoffmann",
+    "full_name": "Filip Hoffmann",
+    "login": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3"
+  },
+  {
+    "first_name": "Tomáš",
+    "last_name": "Junas",
+    "full_name": "Tomáš Junas",
+    "login": "tomas",
+    "password": "21232f297a57a5a743894a0e4a801fc3"
+  },
+  {
+    "first_name": "Michal",
+    "last_name": "Hunák",
+    "full_name": "Michal Hunák",
+    "login": "michal",
+    "password": "21232f297a57a5a743894a0e4a801fc3"
+  },
+  {
+    "first_name": "Juraj",
+    "last_name": "Mečír",
+    "full_name": "Juraj Mečír",
+    "login": "juraj",
+    "password": "21232f297a57a5a743894a0e4a801fc3"
+  },
+  {
+    "first_name": "Kristián",
+    "last_name": "Košťál",
+    "full_name": "Kristián Košťál",
+    "login": "kristian",
+    "password": "21232f297a57a5a743894a0e4a801fc3"
+  }
+]

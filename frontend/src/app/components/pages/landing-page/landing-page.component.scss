@@ -1,0 +1,38 @@
+@import "src/styles";
+
+.vertical-align {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.team-name {
+  font-size: xx-large;
+  margin-bottom: 40px;
+}
+
+.landing-text {
+  margin-top: 50px;
+  text-align: center;
+  font-size: large;
+  max-width: 950px;
+}
+
+.highlight {
+  color: mat-color($icp-green, 100);
+}
+
+@media only screen and (max-width: 786px) {
+  .team-name {
+    font-size: x-large;
+    margin-bottom: 15px;
+  }
+
+  .landing-text {
+    font-size: medium;
+    margin-top: 15px;
+    max-width: 85%;
+  }
+}

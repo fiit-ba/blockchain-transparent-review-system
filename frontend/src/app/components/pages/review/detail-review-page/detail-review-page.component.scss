@@ -1,0 +1,67 @@
+@import "src/styles";
+
+.subject-btn {
+  margin-right: 5px;
+}
+
+.subtitle .date {
+  float: right
+}
+
+.subtitle .name {
+  float: left
+}
+
+.mat-card-title:not(:first-child) {
+  margin-top: 25px;
+}
+
+.review-detail-update {
+  margin-top: 25px;
+}
+
+
+.color-faded {
+  color: $background-card-gray;
+}
+
+.mat-card-title {
+  margin-bottom: 30px;
+}
+
+.form-card {
+  h3 {
+    margin-bottom: 5px;
+  }
+}
+
+.markdown-card {
+  overflow-wrap: break-word;
+  width: 95%;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.checkbox-section {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 60px;
+
+  .checkbox-margin {
+    margin: 0 10px;
+  }
+}
+
+textarea {
+  height: 175px;
+}
+
+.how-to-text {
+  margin-bottom: 20px;
+  margin-left: 20px;
+  color: #7b7b7b;
+}
+
+.h3 {
+  margin-bottom: 5px;
+}

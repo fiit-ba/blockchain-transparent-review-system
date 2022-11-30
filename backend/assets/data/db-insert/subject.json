@@ -1,0 +1,3575 @@
+[
+  {
+    "name": "ZMTMO",
+    "full_name": "ZMTMO",
+    "tags": [
+      "{zmtmo}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZMTMO",
+    "full_name": "ZMTMO",
+    "tags": [
+      "{zmtmo}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZMTMO",
+    "full_name": "ZMTMO",
+    "tags": [
+      "{zmtmo}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZMTMO",
+    "full_name": "ZMTMO",
+    "tags": [
+      "{zmtmo}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "UMZI",
+    "full_name": "UMZI",
+    "tags": [
+      "{umzi}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "UMZI",
+    "full_name": "UMZI",
+    "tags": [
+      "{umzi}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "UMZI",
+    "full_name": "UMZI",
+    "tags": [
+      "{umzi}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "IVZDEL",
+    "full_name": "IVZDEL",
+    "tags": [
+      "{ivzdel}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "IVZDEL",
+    "full_name": "IVZDEL",
+    "tags": [
+      "{ivzdel}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "IVZDEL",
+    "full_name": "IVZDEL",
+    "tags": [
+      "{ivzdel}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 1
+  },
+  {
+    "name": "IVZDEL",
+    "full_name": "IVZDEL",
+    "tags": [
+      "{ivzdel}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPS",
+    "full_name": "ZPS",
+    "tags": [
+      "{zps}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPS",
+    "full_name": "ZPS",
+    "tags": [
+      "{zps}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPS",
+    "full_name": "ZPS",
+    "tags": [
+      "{zps}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "UMA",
+    "full_name": "UMA",
+    "tags": [
+      "{uma}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "UMA",
+    "full_name": "UMA",
+    "tags": [
+      "{uma}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "UMA",
+    "full_name": "UMA",
+    "tags": [
+      "{uma}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR2",
+    "full_name": "ZPRPR2",
+    "tags": [
+      "{zprpr2}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR2",
+    "full_name": "ZPRPR2",
+    "tags": [
+      "{zprpr2}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR2",
+    "full_name": "ZPRPR2",
+    "tags": [
+      "{zprpr2}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR2",
+    "full_name": "ZPRPR2",
+    "tags": [
+      "{zprpr2}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR",
+    "full_name": "ZPRPR",
+    "tags": [
+      "{zprpr}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR",
+    "full_name": "ZPRPR",
+    "tags": [
+      "{zprpr}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR",
+    "full_name": "ZPRPR",
+    "tags": [
+      "{zprpr}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZPRPR",
+    "full_name": "ZPRPR",
+    "tags": [
+      "{zprpr}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZTIAPL",
+    "full_name": "ZTIAPL",
+    "tags": [
+      "{ztiapl}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZTIAPL",
+    "full_name": "ZTIAPL",
+    "tags": [
+      "{ztiapl}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZTIAPL",
+    "full_name": "ZTIAPL",
+    "tags": [
+      "{ztiapl}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 1
+  },
+  {
+    "name": "ZTIAPL",
+    "full_name": "ZTIAPL",
+    "tags": [
+      "{ztiapl}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 1
+  },
+  {
+    "name": "OOP",
+    "full_name": "OOP",
+    "tags": [
+      "{oop}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "OOP",
+    "full_name": "OOP",
+    "tags": [
+      "{oop}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "OOP",
+    "full_name": "OOP",
+    "tags": [
+      "{oop}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 2
+  },
+  {
+    "name": "OOP",
+    "full_name": "OOP",
+    "tags": [
+      "{oop}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "ADM",
+    "full_name": "ADM",
+    "tags": [
+      "{adm}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "ADM",
+    "full_name": "ADM",
+    "tags": [
+      "{adm}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "ADM",
+    "full_name": "ADM",
+    "tags": [
+      "{adm}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "MA",
+    "full_name": "MA",
+    "tags": [
+      "{ma}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "MA",
+    "full_name": "MA",
+    "tags": [
+      "{ma}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "MA",
+    "full_name": "MA",
+    "tags": [
+      "{ma}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "MIP",
+    "full_name": "MIP",
+    "tags": [
+      "{mip}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "MIP",
+    "full_name": "MIP",
+    "tags": [
+      "{mip}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 2
+  },
+  {
+    "name": "MIP",
+    "full_name": "MIP",
+    "tags": [
+      "{mip}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "MIP",
+    "full_name": "MIP",
+    "tags": [
+      "{mip}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "PPI",
+    "full_name": "PPI",
+    "tags": [
+      "{ppi}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "PPI",
+    "full_name": "PPI",
+    "tags": [
+      "{ppi}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 2
+  },
+  {
+    "name": "PPI",
+    "full_name": "PPI",
+    "tags": [
+      "{ppi}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "PPI",
+    "full_name": "PPI",
+    "tags": [
+      "{ppi}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "PRPR",
+    "full_name": "PRPR",
+    "tags": [
+      "{prpr}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "PRPR",
+    "full_name": "PRPR",
+    "tags": [
+      "{prpr}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "PRPR",
+    "full_name": "PRPR",
+    "tags": [
+      "{prpr}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "PRPR",
+    "full_name": "PRPR",
+    "tags": [
+      "{prpr}"
+    ],
+    "subject_type_id": 5,
+    "study_level_id": 2
+  },
+  {
+    "name": "PRPR",
+    "full_name": "PRPR",
+    "tags": [
+      "{prpr}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 2
+  },
+  {
+    "name": "ZOOP",
+    "full_name": "ZOOP",
+    "tags": [
+      "{zoop}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "ZOOP",
+    "full_name": "ZOOP",
+    "tags": [
+      "{zoop}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "ZOOP",
+    "full_name": "ZOOP",
+    "tags": [
+      "{zoop}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "ZOOP",
+    "full_name": "ZOOP",
+    "tags": [
+      "{zoop}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 2
+  },
+  {
+    "name": "PAM",
+    "full_name": "PAM",
+    "tags": [
+      "{pam}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "PAM",
+    "full_name": "PAM",
+    "tags": [
+      "{pam}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 2
+  },
+  {
+    "name": "PAM",
+    "full_name": "PAM",
+    "tags": [
+      "{pam}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "PAM",
+    "full_name": "PAM",
+    "tags": [
+      "{pam}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "FYZ",
+    "full_name": "FYZ",
+    "tags": [
+      "{fyz}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "FYZ",
+    "full_name": "FYZ",
+    "tags": [
+      "{fyz}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "FYZ",
+    "full_name": "FYZ",
+    "tags": [
+      "{fyz}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "TZIV",
+    "full_name": "TZIV",
+    "tags": [
+      "{tziv}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "TZIV",
+    "full_name": "TZIV",
+    "tags": [
+      "{tziv}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "TZIV",
+    "full_name": "TZIV",
+    "tags": [
+      "{tziv}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 2
+  },
+  {
+    "name": "TZIV",
+    "full_name": "TZIV",
+    "tags": [
+      "{tziv}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "ELN",
+    "full_name": "ELN",
+    "tags": [
+      "{eln}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "ELN",
+    "full_name": "ELN",
+    "tags": [
+      "{eln}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "ELN",
+    "full_name": "ELN",
+    "tags": [
+      "{eln}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "ML1",
+    "full_name": "ML1",
+    "tags": [
+      "{ml1}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 2
+  },
+  {
+    "name": "ML1",
+    "full_name": "ML1",
+    "tags": [
+      "{ml1}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 2
+  },
+  {
+    "name": "ML1",
+    "full_name": "ML1",
+    "tags": [
+      "{ml1}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 2
+  },
+  {
+    "name": "SPRO",
+    "full_name": "SPRO",
+    "tags": [
+      "{spro}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "SPRO",
+    "full_name": "SPRO",
+    "tags": [
+      "{spro}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "SPRO",
+    "full_name": "SPRO",
+    "tags": [
+      "{spro}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "SPAASM",
+    "full_name": "SPAASM",
+    "tags": [
+      "{spaasm}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "SPAASM",
+    "full_name": "SPAASM",
+    "tags": [
+      "{spaasm}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "SPAASM",
+    "full_name": "SPAASM",
+    "tags": [
+      "{spaasm}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "WTECH",
+    "full_name": "WTECH",
+    "tags": [
+      "{wtech}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "WTECH",
+    "full_name": "WTECH",
+    "tags": [
+      "{wtech}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "WTECH",
+    "full_name": "WTECH",
+    "tags": [
+      "{wtech}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 3
+  },
+  {
+    "name": "WTECH",
+    "full_name": "WTECH",
+    "tags": [
+      "{wtech}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "DBS",
+    "full_name": "DBS",
+    "tags": [
+      "{dbs}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "DBS",
+    "full_name": "DBS",
+    "tags": [
+      "{dbs}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 3
+  },
+  {
+    "name": "DBS",
+    "full_name": "DBS",
+    "tags": [
+      "{dbs}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "DBS",
+    "full_name": "DBS",
+    "tags": [
+      "{dbs}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "FLP",
+    "full_name": "FLP",
+    "tags": [
+      "{flp}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "FLP",
+    "full_name": "FLP",
+    "tags": [
+      "{flp}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "FLP",
+    "full_name": "FLP",
+    "tags": [
+      "{flp}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 3
+  },
+  {
+    "name": "FLP",
+    "full_name": "FLP",
+    "tags": [
+      "{flp}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "PSI",
+    "full_name": "PSI",
+    "tags": [
+      "{psi}"
+    ],
+    "subject_type_id": 6,
+    "study_level_id": 3
+  },
+  {
+    "name": "PSI",
+    "full_name": "PSI",
+    "tags": [
+      "{psi}"
+    ],
+    "subject_type_id": 7,
+    "study_level_id": 3
+  },
+  {
+    "name": "PSI",
+    "full_name": "PSI",
+    "tags": [
+      "{psi}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "PSI",
+    "full_name": "PSI",
+    "tags": [
+      "{psi}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "PSI",
+    "full_name": "PSI",
+    "tags": [
+      "{psi}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "PSI",
+    "full_name": "PSI",
+    "tags": [
+      "{psi}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 3
+  },
+  {
+    "name": "PKS",
+    "full_name": "PKS",
+    "tags": [
+      "{pks}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "PKS",
+    "full_name": "PKS",
+    "tags": [
+      "{pks}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "PKS",
+    "full_name": "PKS",
+    "tags": [
+      "{pks}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "PKS",
+    "full_name": "PKS",
+    "tags": [
+      "{pks}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 3
+  },
+  {
+    "name": "DSA",
+    "full_name": "DSA",
+    "tags": [
+      "{dsa}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "DSA",
+    "full_name": "DSA",
+    "tags": [
+      "{dsa}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "DSA",
+    "full_name": "DSA",
+    "tags": [
+      "{dsa}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 3
+  },
+  {
+    "name": "DSA",
+    "full_name": "DSA",
+    "tags": [
+      "{dsa}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "PIKT",
+    "full_name": "PIKT",
+    "tags": [
+      "{pikt}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "PIKT",
+    "full_name": "PIKT",
+    "tags": [
+      "{pikt}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "PIKT",
+    "full_name": "PIKT",
+    "tags": [
+      "{pikt}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 3
+  },
+  {
+    "name": "PIKT",
+    "full_name": "PIKT",
+    "tags": [
+      "{pikt}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "OS",
+    "full_name": "OS",
+    "tags": [
+      "{os}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 3
+  },
+  {
+    "name": "OS",
+    "full_name": "OS",
+    "tags": [
+      "{os}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "OS",
+    "full_name": "OS",
+    "tags": [
+      "{os}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "OS",
+    "full_name": "OS",
+    "tags": [
+      "{os}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "AZA",
+    "full_name": "AZA",
+    "tags": [
+      "{aza}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "AZA",
+    "full_name": "AZA",
+    "tags": [
+      "{aza}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "AZA",
+    "full_name": "AZA",
+    "tags": [
+      "{aza}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "VAVA",
+    "full_name": "VAVA",
+    "tags": [
+      "{vava}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 3
+  },
+  {
+    "name": "VAVA",
+    "full_name": "VAVA",
+    "tags": [
+      "{vava}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "VAVA",
+    "full_name": "VAVA",
+    "tags": [
+      "{vava}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "VAVA",
+    "full_name": "VAVA",
+    "tags": [
+      "{vava}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "TEAP",
+    "full_name": "TEAP",
+    "tags": [
+      "{teap}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "TEAP",
+    "full_name": "TEAP",
+    "tags": [
+      "{teap}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "TEAP",
+    "full_name": "TEAP",
+    "tags": [
+      "{teap}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 3
+  },
+  {
+    "name": "TEAP",
+    "full_name": "TEAP",
+    "tags": [
+      "{teap}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "PAS",
+    "full_name": "PAS",
+    "tags": [
+      "{pas}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "PAS",
+    "full_name": "PAS",
+    "tags": [
+      "{pas}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "PAS",
+    "full_name": "PAS",
+    "tags": [
+      "{pas}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "UI",
+    "full_name": "UI",
+    "tags": [
+      "{ui}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "UI",
+    "full_name": "UI",
+    "tags": [
+      "{ui}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "UI",
+    "full_name": "UI",
+    "tags": [
+      "{ui}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 3
+  },
+  {
+    "name": "UI",
+    "full_name": "UI",
+    "tags": [
+      "{ui}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "PIB",
+    "full_name": "PIB",
+    "tags": [
+      "{pib}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 3
+  },
+  {
+    "name": "PIB",
+    "full_name": "PIB",
+    "tags": [
+      "{pib}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 3
+  },
+  {
+    "name": "PIB",
+    "full_name": "PIB",
+    "tags": [
+      "{pib}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 3
+  },
+  {
+    "name": "ICP",
+    "full_name": "ICP",
+    "tags": [
+      "{icp}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "ICP",
+    "full_name": "ICP",
+    "tags": [
+      "{icp}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "ICP",
+    "full_name": "ICP",
+    "tags": [
+      "{icp}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "ICP",
+    "full_name": "ICP",
+    "tags": [
+      "{icp}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "PSIP",
+    "full_name": "PSIP",
+    "tags": [
+      "{psip}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 4
+  },
+  {
+    "name": "PSIP",
+    "full_name": "PSIP",
+    "tags": [
+      "{psip}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "PSIP",
+    "full_name": "PSIP",
+    "tags": [
+      "{psip}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "PSIP",
+    "full_name": "PSIP",
+    "tags": [
+      "{psip}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "ME",
+    "full_name": "ME",
+    "tags": [
+      "{me}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "ME",
+    "full_name": "ME",
+    "tags": [
+      "{me}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "ME",
+    "full_name": "ME",
+    "tags": [
+      "{me}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "MSOFT",
+    "full_name": "MSOFT",
+    "tags": [
+      "{msoft}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "MSOFT",
+    "full_name": "MSOFT",
+    "tags": [
+      "{msoft}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "MSOFT",
+    "full_name": "MSOFT",
+    "tags": [
+      "{msoft}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "MSOFT",
+    "full_name": "MSOFT",
+    "tags": [
+      "{msoft}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "PARALPR",
+    "full_name": "PARALPR",
+    "tags": [
+      "{paralpr}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "PARALPR",
+    "full_name": "PARALPR",
+    "tags": [
+      "{paralpr}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "PARALPR",
+    "full_name": "PARALPR",
+    "tags": [
+      "{paralpr}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "PARALPR",
+    "full_name": "PARALPR",
+    "tags": [
+      "{paralpr}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "APC",
+    "full_name": "APC",
+    "tags": [
+      "{apc}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "APC",
+    "full_name": "APC",
+    "tags": [
+      "{apc}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "APC",
+    "full_name": "APC",
+    "tags": [
+      "{apc}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "APC",
+    "full_name": "APC",
+    "tags": [
+      "{apc}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "PIS",
+    "full_name": "PIS",
+    "tags": [
+      "{pis}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "PIS",
+    "full_name": "PIS",
+    "tags": [
+      "{pis}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 4
+  },
+  {
+    "name": "PIS",
+    "full_name": "PIS",
+    "tags": [
+      "{pis}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "MSS",
+    "full_name": "MSS",
+    "tags": [
+      "{mss}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "MSS",
+    "full_name": "MSS",
+    "tags": [
+      "{mss}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "MSS",
+    "full_name": "MSS",
+    "tags": [
+      "{mss}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "WANT",
+    "full_name": "WANT",
+    "tags": [
+      "{want}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "WANT",
+    "full_name": "WANT",
+    "tags": [
+      "{want}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "WANT",
+    "full_name": "WANT",
+    "tags": [
+      "{want}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "WANT",
+    "full_name": "WANT",
+    "tags": [
+      "{want}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 4
+  },
+  {
+    "name": "WPUB",
+    "full_name": "WPUB",
+    "tags": [
+      "{wpub}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "WPUB",
+    "full_name": "WPUB",
+    "tags": [
+      "{wpub}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "WPUB",
+    "full_name": "WPUB",
+    "tags": [
+      "{wpub}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "IAU",
+    "full_name": "IAU",
+    "tags": [
+      "{iau}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "IAU",
+    "full_name": "IAU",
+    "tags": [
+      "{iau}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "IAU",
+    "full_name": "IAU",
+    "tags": [
+      "{iau}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "IAU",
+    "full_name": "IAU",
+    "tags": [
+      "{iau}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "MBVIT",
+    "full_name": "MBVIT",
+    "tags": [
+      "{mbvit}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "MBVIT",
+    "full_name": "MBVIT",
+    "tags": [
+      "{mbvit}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "MBVIT",
+    "full_name": "MBVIT",
+    "tags": [
+      "{mbvit}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "MBVIT",
+    "full_name": "MBVIT",
+    "tags": [
+      "{mbvit}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "MIKROP",
+    "full_name": "MIKROP",
+    "tags": [
+      "{mikrop}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "MIKROP",
+    "full_name": "MIKROP",
+    "tags": [
+      "{mikrop}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "MIKROP",
+    "full_name": "MIKROP",
+    "tags": [
+      "{mikrop}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "DM",
+    "full_name": "DM",
+    "tags": [
+      "{dm}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "DM",
+    "full_name": "DM",
+    "tags": [
+      "{dm}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "DM",
+    "full_name": "DM",
+    "tags": [
+      "{dm}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "DM",
+    "full_name": "DM",
+    "tags": [
+      "{dm}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "EIT",
+    "full_name": "EIT",
+    "tags": [
+      "{eit}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "EIT",
+    "full_name": "EIT",
+    "tags": [
+      "{eit}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "EIT",
+    "full_name": "EIT",
+    "tags": [
+      "{eit}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "EIT",
+    "full_name": "EIT",
+    "tags": [
+      "{eit}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "FAPS",
+    "full_name": "FAPS",
+    "tags": [
+      "{faps}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "FAPS",
+    "full_name": "FAPS",
+    "tags": [
+      "{faps}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "FAPS",
+    "full_name": "FAPS",
+    "tags": [
+      "{faps}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "FAPS",
+    "full_name": "FAPS",
+    "tags": [
+      "{faps}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "OPAHZ",
+    "full_name": "OPAHZ",
+    "tags": [
+      "{opahz}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "OPAHZ",
+    "full_name": "OPAHZ",
+    "tags": [
+      "{opahz}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "OPAHZ",
+    "full_name": "OPAHZ",
+    "tags": [
+      "{opahz}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "OPAHZ",
+    "full_name": "OPAHZ",
+    "tags": [
+      "{opahz}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "PRBIT",
+    "full_name": "PRBIT",
+    "tags": [
+      "{prbit}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "PRBIT",
+    "full_name": "PRBIT",
+    "tags": [
+      "{prbit}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "PRBIT",
+    "full_name": "PRBIT",
+    "tags": [
+      "{prbit}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 4
+  },
+  {
+    "name": "PRBIT",
+    "full_name": "PRBIT",
+    "tags": [
+      "{prbit}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "VAVJS",
+    "full_name": "VAVJS",
+    "tags": [
+      "{vavjs}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "VAVJS",
+    "full_name": "VAVJS",
+    "tags": [
+      "{vavjs}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "VAVJS",
+    "full_name": "VAVJS",
+    "tags": [
+      "{vavjs}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "VAVJS",
+    "full_name": "VAVJS",
+    "tags": [
+      "{vavjs}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 4
+  },
+  {
+    "name": "MTAA",
+    "full_name": "MTAA",
+    "tags": [
+      "{mtaa}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "MTAA",
+    "full_name": "MTAA",
+    "tags": [
+      "{mtaa}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "MTAA",
+    "full_name": "MTAA",
+    "tags": [
+      "{mtaa}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "PAP",
+    "full_name": "PAP",
+    "tags": [
+      "{pap}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "PAP",
+    "full_name": "PAP",
+    "tags": [
+      "{pap}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "PAP",
+    "full_name": "PAP",
+    "tags": [
+      "{pap}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 4
+  },
+  {
+    "name": "PAP",
+    "full_name": "PAP",
+    "tags": [
+      "{pap}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "BIT",
+    "full_name": "BIT",
+    "tags": [
+      "{bit}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 4
+  },
+  {
+    "name": "BIT",
+    "full_name": "BIT",
+    "tags": [
+      "{bit}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 4
+  },
+  {
+    "name": "BIT",
+    "full_name": "BIT",
+    "tags": [
+      "{bit}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 4
+  },
+  {
+    "name": "PDT",
+    "full_name": "PDT",
+    "tags": [
+      "{pdt}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "PDT",
+    "full_name": "PDT",
+    "tags": [
+      "{pdt}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "PDT",
+    "full_name": "PDT",
+    "tags": [
+      "{pdt}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "PDT",
+    "full_name": "PDT",
+    "tags": [
+      "{pdt}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "PPGSO",
+    "full_name": "PPGSO",
+    "tags": [
+      "{ppgso}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "PPGSO",
+    "full_name": "PPGSO",
+    "tags": [
+      "{ppgso}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "PPGSO",
+    "full_name": "PPGSO",
+    "tags": [
+      "{ppgso}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "PPGSO",
+    "full_name": "PPGSO",
+    "tags": [
+      "{ppgso}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "TP",
+    "full_name": "TP",
+    "tags": [
+      "{tp}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "TP",
+    "full_name": "TP",
+    "tags": [
+      "{tp}"
+    ],
+    "subject_type_id": 8,
+    "study_level_id": 5
+  },
+  {
+    "name": "SOGAM",
+    "full_name": "SOGAM",
+    "tags": [
+      "{sogam}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SOGAM",
+    "full_name": "SOGAM",
+    "tags": [
+      "{sogam}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "SOGAM",
+    "full_name": "SOGAM",
+    "tags": [
+      "{sogam}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "KPAIS",
+    "full_name": "KPAIS",
+    "tags": [
+      "{kpais}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "KPAIS",
+    "full_name": "KPAIS",
+    "tags": [
+      "{kpais}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "KPAIS",
+    "full_name": "KPAIS",
+    "tags": [
+      "{kpais}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "KPAIS",
+    "full_name": "KPAIS",
+    "tags": [
+      "{kpais}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SJ",
+    "full_name": "SJ",
+    "tags": [
+      "{sj}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SJ",
+    "full_name": "SJ",
+    "tags": [
+      "{sj}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "SJ",
+    "full_name": "SJ",
+    "tags": [
+      "{sj}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "SJ",
+    "full_name": "SJ",
+    "tags": [
+      "{sj}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "VNOS",
+    "full_name": "VNOS",
+    "tags": [
+      "{vnos}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "VNOS",
+    "full_name": "VNOS",
+    "tags": [
+      "{vnos}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "VNOS",
+    "full_name": "VNOS",
+    "tags": [
+      "{vnos}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "VNOS",
+    "full_name": "VNOS",
+    "tags": [
+      "{vnos}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "VINF",
+    "full_name": "VINF",
+    "tags": [
+      "{vinf}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "VINF",
+    "full_name": "VINF",
+    "tags": [
+      "{vinf}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "VINF",
+    "full_name": "VINF",
+    "tags": [
+      "{vinf}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "VINF",
+    "full_name": "VINF",
+    "tags": [
+      "{vinf}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "AIS",
+    "full_name": "AIS",
+    "tags": [
+      "{ais}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "AIS",
+    "full_name": "AIS",
+    "tags": [
+      "{ais}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "AIS",
+    "full_name": "AIS",
+    "tags": [
+      "{ais}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "AIS",
+    "full_name": "AIS",
+    "tags": [
+      "{ais}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "ZKGRA",
+    "full_name": "ZKGRA",
+    "tags": [
+      "{zkgra}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "ZKGRA",
+    "full_name": "ZKGRA",
+    "tags": [
+      "{zkgra}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "ZKGRA",
+    "full_name": "ZKGRA",
+    "tags": [
+      "{zkgra}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "ALG",
+    "full_name": "ALG",
+    "tags": [
+      "{alg}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "ALG",
+    "full_name": "ALG",
+    "tags": [
+      "{alg}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "ALG",
+    "full_name": "ALG",
+    "tags": [
+      "{alg}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "AOVS",
+    "full_name": "AOVS",
+    "tags": [
+      "{aovs}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "AOVS",
+    "full_name": "AOVS",
+    "tags": [
+      "{aovs}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "AOVS",
+    "full_name": "AOVS",
+    "tags": [
+      "{aovs}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "AOVS",
+    "full_name": "AOVS",
+    "tags": [
+      "{aovs}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "MTS",
+    "full_name": "MTS",
+    "tags": [
+      "{mts}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "MTS",
+    "full_name": "MTS",
+    "tags": [
+      "{mts}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "MTS",
+    "full_name": "MTS",
+    "tags": [
+      "{mts}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 5
+  },
+  {
+    "name": "MTS",
+    "full_name": "MTS",
+    "tags": [
+      "{mts}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "ASS",
+    "full_name": "ASS",
+    "tags": [
+      "{ass}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "ASS",
+    "full_name": "ASS",
+    "tags": [
+      "{ass}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "ASS",
+    "full_name": "ASS",
+    "tags": [
+      "{ass}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "ASS",
+    "full_name": "ASS",
+    "tags": [
+      "{ass}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "KOD",
+    "full_name": "KOD",
+    "tags": [
+      "{kod}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "KOD",
+    "full_name": "KOD",
+    "tags": [
+      "{kod}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "KOD",
+    "full_name": "KOD",
+    "tags": [
+      "{kod}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "KSS",
+    "full_name": "KSS",
+    "tags": [
+      "{kss}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "KSS",
+    "full_name": "KSS",
+    "tags": [
+      "{kss}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "KSS",
+    "full_name": "KSS",
+    "tags": [
+      "{kss}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "KSS",
+    "full_name": "KSS",
+    "tags": [
+      "{kss}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 5
+  },
+  {
+    "name": "KSS",
+    "full_name": "KSS",
+    "tags": [
+      "{kss}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "AASS",
+    "full_name": "AASS",
+    "tags": [
+      "{aass}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "AASS",
+    "full_name": "AASS",
+    "tags": [
+      "{aass}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "AASS",
+    "full_name": "AASS",
+    "tags": [
+      "{aass}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "AASS",
+    "full_name": "AASS",
+    "tags": [
+      "{aass}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "BVI",
+    "full_name": "BVI",
+    "tags": [
+      "{bvi}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "BVI",
+    "full_name": "BVI",
+    "tags": [
+      "{bvi}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "BVI",
+    "full_name": "BVI",
+    "tags": [
+      "{bvi}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "BVI",
+    "full_name": "BVI",
+    "tags": [
+      "{bvi}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "FMAN",
+    "full_name": "FMAN",
+    "tags": [
+      "{fman}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "FMAN",
+    "full_name": "FMAN",
+    "tags": [
+      "{fman}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "FMAN",
+    "full_name": "FMAN",
+    "tags": [
+      "{fman}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "FMAN",
+    "full_name": "FMAN",
+    "tags": [
+      "{fman}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "GRA",
+    "full_name": "GRA",
+    "tags": [
+      "{gra}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "GRA",
+    "full_name": "GRA",
+    "tags": [
+      "{gra}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "GRA",
+    "full_name": "GRA",
+    "tags": [
+      "{gra}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "OZNAL",
+    "full_name": "OZNAL",
+    "tags": [
+      "{oznal}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "OZNAL",
+    "full_name": "OZNAL",
+    "tags": [
+      "{oznal}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "OZNAL",
+    "full_name": "OZNAL",
+    "tags": [
+      "{oznal}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "OZNAL",
+    "full_name": "OZNAL",
+    "tags": [
+      "{oznal}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "SIPVS",
+    "full_name": "SIPVS",
+    "tags": [
+      "{sipvs}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "SIPVS",
+    "full_name": "SIPVS",
+    "tags": [
+      "{sipvs}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "SIPVS",
+    "full_name": "SIPVS",
+    "tags": [
+      "{sipvs}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "SIPVS",
+    "full_name": "SIPVS",
+    "tags": [
+      "{sipvs}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "OOANS",
+    "full_name": "OOANS",
+    "tags": [
+      "{ooans}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "OOANS",
+    "full_name": "OOANS",
+    "tags": [
+      "{ooans}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "OOANS",
+    "full_name": "OOANS",
+    "tags": [
+      "{ooans}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "PVID",
+    "full_name": "PVID",
+    "tags": [
+      "{pvid}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "PVID",
+    "full_name": "PVID",
+    "tags": [
+      "{pvid}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "PVID",
+    "full_name": "PVID",
+    "tags": [
+      "{pvid}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "PVID",
+    "full_name": "PVID",
+    "tags": [
+      "{pvid}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "VPT",
+    "full_name": "VPT",
+    "tags": [
+      "{vpt}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "VPT",
+    "full_name": "VPT",
+    "tags": [
+      "{vpt}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "VPT",
+    "full_name": "VPT",
+    "tags": [
+      "{vpt}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "VPT",
+    "full_name": "VPT",
+    "tags": [
+      "{vpt}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "VD",
+    "full_name": "VD",
+    "tags": [
+      "{vd}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "VD",
+    "full_name": "VD",
+    "tags": [
+      "{vd}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "VD",
+    "full_name": "VD",
+    "tags": [
+      "{vd}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "VD",
+    "full_name": "VD",
+    "tags": [
+      "{vd}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SATSYS",
+    "full_name": "SATSYS",
+    "tags": [
+      "{satsys}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "SATSYS",
+    "full_name": "SATSYS",
+    "tags": [
+      "{satsys}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SATSYS",
+    "full_name": "SATSYS",
+    "tags": [
+      "{satsys}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "SATSYS",
+    "full_name": "SATSYS",
+    "tags": [
+      "{satsys}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "BKS",
+    "full_name": "BKS",
+    "tags": [
+      "{bks}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "BKS",
+    "full_name": "BKS",
+    "tags": [
+      "{bks}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "BKS",
+    "full_name": "BKS",
+    "tags": [
+      "{bks}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "BKS",
+    "full_name": "BKS",
+    "tags": [
+      "{bks}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "DOVI",
+    "full_name": "DOVI",
+    "tags": [
+      "{dovi}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "DOVI",
+    "full_name": "DOVI",
+    "tags": [
+      "{dovi}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "DOVI",
+    "full_name": "DOVI",
+    "tags": [
+      "{dovi}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "DOVI",
+    "full_name": "DOVI",
+    "tags": [
+      "{dovi}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "IPVIKT",
+    "full_name": "IPVIKT",
+    "tags": [
+      "{ipvikt}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "IPVIKT",
+    "full_name": "IPVIKT",
+    "tags": [
+      "{ipvikt}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "IPVIKT",
+    "full_name": "IPVIKT",
+    "tags": [
+      "{ipvikt}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "IPVIKT",
+    "full_name": "IPVIKT",
+    "tags": [
+      "{ipvikt}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "NSIETE",
+    "full_name": "NSIETE",
+    "tags": [
+      "{nsiete}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "NSIETE",
+    "full_name": "NSIETE",
+    "tags": [
+      "{nsiete}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "NSIETE",
+    "full_name": "NSIETE",
+    "tags": [
+      "{nsiete}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "NSIETE",
+    "full_name": "NSIETE",
+    "tags": [
+      "{nsiete}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "NUMA",
+    "full_name": "NUMA",
+    "tags": [
+      "{numa}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "NUMA",
+    "full_name": "NUMA",
+    "tags": [
+      "{numa}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "NUMA",
+    "full_name": "NUMA",
+    "tags": [
+      "{numa}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "NUMA",
+    "full_name": "NUMA",
+    "tags": [
+      "{numa}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "RREP",
+    "full_name": "RREP",
+    "tags": [
+      "{rrep}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "RREP",
+    "full_name": "RREP",
+    "tags": [
+      "{rrep}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "RREP",
+    "full_name": "RREP",
+    "tags": [
+      "{rrep}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVIT",
+    "full_name": "SMVIT",
+    "tags": [
+      "{smvit}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVIT",
+    "full_name": "SMVIT",
+    "tags": [
+      "{smvit}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVIT",
+    "full_name": "SMVIT",
+    "tags": [
+      "{smvit}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVIT",
+    "full_name": "SMVIT",
+    "tags": [
+      "{smvit}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVE",
+    "full_name": "SMVE",
+    "tags": [
+      "{smve}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVE",
+    "full_name": "SMVE",
+    "tags": [
+      "{smve}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVE",
+    "full_name": "SMVE",
+    "tags": [
+      "{smve}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "SMVE",
+    "full_name": "SMVE",
+    "tags": [
+      "{smve}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "TMPV",
+    "full_name": "TMPV",
+    "tags": [
+      "{tmpv}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "TMPV",
+    "full_name": "TMPV",
+    "tags": [
+      "{tmpv}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "TMPV",
+    "full_name": "TMPV",
+    "tags": [
+      "{tmpv}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "TMPV",
+    "full_name": "TMPV",
+    "tags": [
+      "{tmpv}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "APS",
+    "full_name": "APS",
+    "tags": [
+      "{aps}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "APS",
+    "full_name": "APS",
+    "tags": [
+      "{aps}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "APS",
+    "full_name": "APS",
+    "tags": [
+      "{aps}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 5
+  },
+  {
+    "name": "APS",
+    "full_name": "APS",
+    "tags": [
+      "{aps}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "NAVPH",
+    "full_name": "NAVPH",
+    "tags": [
+      "{navph}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "NAVPH",
+    "full_name": "NAVPH",
+    "tags": [
+      "{navph}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "NAVPH",
+    "full_name": "NAVPH",
+    "tags": [
+      "{navph}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "NAVPH",
+    "full_name": "NAVPH",
+    "tags": [
+      "{navph}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "PRIPOC",
+    "full_name": "PRIPOC",
+    "tags": [
+      "{pripoc}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "PRIPOC",
+    "full_name": "PRIPOC",
+    "tags": [
+      "{pripoc}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "PRIPOC",
+    "full_name": "PRIPOC",
+    "tags": [
+      "{pripoc}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "PRIPOC",
+    "full_name": "PRIPOC",
+    "tags": [
+      "{pripoc}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "SB",
+    "full_name": "SB",
+    "tags": [
+      "{sb}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "SB",
+    "full_name": "SB",
+    "tags": [
+      "{sb}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "SB",
+    "full_name": "SB",
+    "tags": [
+      "{sb}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "SB",
+    "full_name": "SB",
+    "tags": [
+      "{sb}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "TSOFT",
+    "full_name": "TSOFT",
+    "tags": [
+      "{tsoft}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "TSOFT",
+    "full_name": "TSOFT",
+    "tags": [
+      "{tsoft}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "TSOFT",
+    "full_name": "TSOFT",
+    "tags": [
+      "{tsoft}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "WAC",
+    "full_name": "WAC",
+    "tags": [
+      "{wac}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "WAC",
+    "full_name": "WAC",
+    "tags": [
+      "{wac}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "WAC",
+    "full_name": "WAC",
+    "tags": [
+      "{wac}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "WAC",
+    "full_name": "WAC",
+    "tags": [
+      "{wac}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "BOS",
+    "full_name": "BOS",
+    "tags": [
+      "{bos}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 5
+  },
+  {
+    "name": "BOS",
+    "full_name": "BOS",
+    "tags": [
+      "{bos}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "BOS",
+    "full_name": "BOS",
+    "tags": [
+      "{bos}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "BOS",
+    "full_name": "BOS",
+    "tags": [
+      "{bos}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "MIB",
+    "full_name": "MIB",
+    "tags": [
+      "{mib}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "MIB",
+    "full_name": "MIB",
+    "tags": [
+      "{mib}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "MIB",
+    "full_name": "MIB",
+    "tags": [
+      "{mib}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "NMVS",
+    "full_name": "NMVS",
+    "tags": [
+      "{nmvs}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "NMVS",
+    "full_name": "NMVS",
+    "tags": [
+      "{nmvs}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "NMVS",
+    "full_name": "NMVS",
+    "tags": [
+      "{nmvs}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "NMVS",
+    "full_name": "NMVS",
+    "tags": [
+      "{nmvs}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "PMPG",
+    "full_name": "PMPG",
+    "tags": [
+      "{pmpg}"
+    ],
+    "subject_type_id": 4,
+    "study_level_id": 5
+  },
+  {
+    "name": "PMPG",
+    "full_name": "PMPG",
+    "tags": [
+      "{pmpg}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "PMPG",
+    "full_name": "PMPG",
+    "tags": [
+      "{pmpg}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "PMPG",
+    "full_name": "PMPG",
+    "tags": [
+      "{pmpg}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "RI",
+    "full_name": "RI",
+    "tags": [
+      "{ri}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 5
+  },
+  {
+    "name": "RI",
+    "full_name": "RI",
+    "tags": [
+      "{ri}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "RI",
+    "full_name": "RI",
+    "tags": [
+      "{ri}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "RI",
+    "full_name": "RI",
+    "tags": [
+      "{ri}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  },
+  {
+    "name": "VAKB",
+    "full_name": "VAKB",
+    "tags": [
+      "{vakb}"
+    ],
+    "subject_type_id": 3,
+    "study_level_id": 5
+  },
+  {
+    "name": "VAKB",
+    "full_name": "VAKB",
+    "tags": [
+      "{vakb}"
+    ],
+    "subject_type_id": 2,
+    "study_level_id": 5
+  },
+  {
+    "name": "VAKB",
+    "full_name": "VAKB",
+    "tags": [
+      "{vakb}"
+    ],
+    "subject_type_id": 1,
+    "study_level_id": 5
+  },
+  {
+    "name": "VAKB",
+    "full_name": "VAKB",
+    "tags": [
+      "{vakb}"
+    ],
+    "subject_type_id": 9,
+    "study_level_id": 5
+  }
+]

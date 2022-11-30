@@ -1,0 +1,28 @@
+@import "src/styles";
+
+.review-card {
+    margin-bottom: 15px;
+}
+
+.subject-btn {
+    margin-right: 5px;
+}
+
+.subtitle .date {
+    float: right
+}
+
+.subtitle .name {
+    float: left
+}
+.mat-card-title:not(:first-child) {
+    margin-top: 25px;
+}
+
+.filter-search {
+    width: 300px;
+}
+
+.detail-btn{
+    float: right;
+}
